@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+/bin/
+/etc/
+/lib/
+/share/
+pyvenv.cfg
+main.py
+.~lock.loans.csv#
+.vim/coc-settings.json
+.ipynb_checkpoints/Assignment code-checkpoint.ipynb
